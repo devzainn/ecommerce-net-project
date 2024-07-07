@@ -1,1 +1,1 @@
-
+This repository features an e-commerce project built with .NET, including CRUD functionalities for categories, products, and companies, as well as a shopping cart system. It showcases practical .NET application in developing a comprehensive online store.
